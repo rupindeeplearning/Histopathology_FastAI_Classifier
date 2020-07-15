@@ -1,6 +1,6 @@
 <h3>Simple image classifier for histopathology samples (colon)</h3>
 <h3>Model generation is in preprocessing.ipynb</h3>
-<h3>To simply run the model on your data, run deployment.ipynb</h3>
+<h3>To simply run the model on your data, run deployment.ipynb - you may have to install fastai and other libraries</h3>
 <h3>Sample data are in the folders (online/colon_aca - malignant and online/colon_n - healthy)</h3>
 
 
